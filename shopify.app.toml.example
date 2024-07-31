@@ -17,7 +17,7 @@ scopes = "read_products,unauthenticated_read_metaobjects,unauthenticated_read_pr
 redirect_urls = [ "https://shopify.dev/apps/default-app-home/api/auth" ]
 
 [webhooks]
-api_version = "2024-01"
+api_version = "2024-04"
 
 [pos]
 embedded = false
